@@ -1,0 +1,4094 @@
+[
+  {
+    "decision_id": "DEC-20260103031324-1",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T02:13:24.792855",
+    "task_id": "4",
+    "task_title": "API Documentation Update",
+    "assigned_user_id": "212",
+    "assigned_user_name": "Omar Hassan",
+    "confidence": 0.85,
+    "explanation": "Selected Omar Hassan (ID: 212) with score 0.85. Key factors: 1. skill_match=0.5, 2. experience=2.9 years, 3. completion_confidence=0.5, 4. workload=1. Alternatives considered: [Linda Zhang (ID: 204) with score 0.8, Lower score due to experience_years, [Maya Singh (ID: 215) with score 0.83, Lower score due to skill_match_score].",
+    "ethical_analysis": {
+      "wellbeing_risks": "None",
+      "bias_checks": "Decision based on objective metrics"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "low",
+      "required_skills": [],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 204,
+        "score": 0.8,
+        "reason": "Lower score due to experience_years"
+      },
+      {
+        "user_id": 215,
+        "score": 0.83,
+        "reason": "Lower score due to skill_match_score"
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103031324-2",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T02:13:24.996736",
+    "task_id": "4",
+    "task_title": "API Documentation Update",
+    "assigned_user_id": "210",
+    "assigned_user_name": "Priya Patel",
+    "confidence": 0.75,
+    "explanation": "Selected Priya Patel (ID: 210) with score 0.75. Key factors: 1. skill_match=0.5, 2. experience=5.5 years, 3. completion_confidence=0.8, 4. workload=0. Alternatives considered: [{\\\"user_id\\\":201,\\\"score\\\":0.65,\\\"reason\\\":\\\"Lower score due to completion_confidence=0.5\\\"}, {\\\"user_id\\\":205,\\\"score\\\":0.65,\\\"reason\\\":\\\"Lower score due to completion_confidence=0.5\\\"}].",
+    "ethical_analysis": {
+      "wellbeing_risks": "None",
+      "bias_checks": "Decision based on objective metrics"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "low",
+      "required_skills": [],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 201,
+        "score": 0.65,
+        "reason": "Lower score due to completion_confidence=0.5"
+      },
+      {
+        "user_id": 205,
+        "score": 0.65,
+        "reason": "Lower score due to completion_confidence=0.5"
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103031359-3",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T02:13:59.894557",
+    "task_id": "4",
+    "task_title": "API Documentation Update",
+    "assigned_user_id": "210",
+    "assigned_user_name": "Priya Patel",
+    "confidence": 0.85,
+    "explanation": "Selected Priya Patel (ID: 210) with score 0.85. Key factors: 1. skill_match=0.5, 2. experience=5.5 years, 3. completion_confidence=0.8, 4. workload=0. Alternatives considered: [{\"user_id\":205,\"score\":0.8,\"reason\":\"Lower score due to completion_confidence\"}].",
+    "ethical_analysis": {
+      "wellbeing_risks": "None",
+      "bias_checks": "Decision based on objective metrics"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "low",
+      "required_skills": [],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 205,
+        "score": 0.8,
+        "reason": "Lower score due to completion_confidence"
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103031400-4",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T02:14:00.160838",
+    "task_id": "4",
+    "task_title": "API Documentation Update",
+    "assigned_user_id": "215",
+    "assigned_user_name": "Maya Singh",
+    "confidence": 0.95,
+    "explanation": "Selected Maya Singh (ID: 215) with score 0.95. Key factors: 1. skill_match=0.5, 2. experience=2.7 years, 3. completion_confidence=1.0, 4. workload=0. Alternatives considered: [{\"user_id\":205,\"score\":0.9,\"reason\":\"Lower score due to estimated_completion_confidence=0.5\"}, {\"user_id\":213,\"score\":0.85,\"reason\":\"Lower score due to estimated_completion_confidence=0.5\"}].",
+    "ethical_analysis": {
+      "wellbeing_risks": "None",
+      "bias_checks": "Decision based on objective metrics: skill_match, experience, confidence, workload"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "low",
+      "required_skills": [],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 205,
+        "score": 0.9,
+        "reason": "Lower score due to estimated_completion_confidence=0.5"
+      },
+      {
+        "user_id": 213,
+        "score": 0.85,
+        "reason": "Lower score due to estimated_completion_confidence=0.5"
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103033357-5",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T02:33:57.020605",
+    "task_id": "4",
+    "task_title": "API Documentation Update",
+    "assigned_user_id": "205",
+    "assigned_user_name": "Alex Johnson",
+    "confidence": 0.85,
+    "explanation": "Selected Alex Johnson (ID: 205) with score 0.85. Key factors: 1. skill_match=0.5, 2. experience=3.8 years, 3. completion_confidence=1.0, 4. workload=0. Alternatives considered: [1. Maya Singh (ID: 215), score 0.7].",
+    "ethical_analysis": {
+      "wellbeing_risks": "None",
+      "bias_checks": "Decision based on objective metrics"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "low",
+      "required_skills": [],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 215,
+        "score": 0.7,
+        "reason": "Lower score due to completion_confidence=1.0"
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103033357-6",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T02:33:57.055360",
+    "task_id": "4",
+    "task_title": "API Documentation Update",
+    "assigned_user_id": "203",
+    "assigned_user_name": "James Thompson",
+    "confidence": 0.88,
+    "explanation": "Selected James Thompson (ID: 203) with score 0.88. Key factors: 1. skill_match=0.5, 2. experience=2.5 years, 3. completion_confidence=0.5, 4. workload=1. Alternatives considered: [{'user_id': 212, 'score': 0.83, 'reason': 'Lower score due to completion_confidence=0.5'}, {'user_id': 214, 'score': 0.83, 'reason': 'Lower score due to completion_confidence=0.5'}].",
+    "ethical_analysis": {
+      "wellbeing_risks": "None",
+      "bias_checks": "Decision based on objective metrics: skill_match, experience, confidence, workload"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "low",
+      "required_skills": [],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 212,
+        "score": 0.83,
+        "reason": "Lower score due to completion_confidence=0.5"
+      },
+      {
+        "user_id": 214,
+        "score": 0.83,
+        "reason": "Lower score due to completion_confidence=0.5"
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103033900-7",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T02:39:00.063414",
+    "task_id": "4",
+    "task_title": "API Documentation Update",
+    "assigned_user_id": "215",
+    "assigned_user_name": "Maya Singh",
+    "confidence": 0.95,
+    "explanation": "Selected Maya Singh (ID: 215) with score 0.95. Key factors: 1. skill_match=0.5, 2. experience=2.7 years, 3. completion_confidence=1.0, 4. workload=0. Alternatives considered: [List top 2].",
+    "ethical_analysis": {
+      "wellbeing_risks": "None",
+      "bias_checks": "Decision based on objective metrics"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "low",
+      "required_skills": [],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 214,
+        "score": 0.85,
+        "reason": "Lower score due to completion_confidence=0.5"
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103033900-8",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T02:39:00.247775",
+    "task_id": "4",
+    "task_title": "API Documentation Update",
+    "assigned_user_id": "215",
+    "assigned_user_name": "Maya Singh",
+    "confidence": 0.83,
+    "explanation": "Selected Maya Singh (ID: 215) with score 0.83. Key factors: 1. skill_match=0.5, 2. experience=2.7 years, 3. completion_confidence=1.0, 4. workload=0. Alternatives considered: [List top 2].",
+    "ethical_analysis": {
+      "wellbeing_risks": "None",
+      "bias_checks": "Decision based on objective metrics"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "low",
+      "required_skills": [],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 205,
+        "score": 0.78,
+        "reason": "Lower score due to completion_confidence=1.0"
+      },
+      {
+        "user_id": 214,
+        "score": 0.73,
+        "reason": "Lower score due to completion_confidence=0.5"
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103033955-9",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T02:39:55.422831",
+    "task_id": "4",
+    "task_title": "API Documentation Update",
+    "assigned_user_id": "205",
+    "assigned_user_name": "Alex Johnson",
+    "confidence": 0.94,
+    "explanation": "Selected Alex Johnson (ID: 205) with score 0.94. Key factors: 1. skill_match=0.5, 2. experience=3.8 years, 3. completion_confidence=1.0, 4. workload=0. Penalty for workload: -0.15.",
+    "ethical_analysis": {
+      "wellbeing_risks": "None",
+      "bias_checks": "Decision based on objective metrics: skill_match, experience, confidence, workload"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "low",
+      "required_skills": [],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 214,
+        "score": 0.77,
+        "reason": "Lower score due to experience=4.2 years"
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103033955-10",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T02:39:55.505508",
+    "task_id": "4",
+    "task_title": "API Documentation Update",
+    "assigned_user_id": "210",
+    "assigned_user_name": "Priya Patel",
+    "confidence": 0.855,
+    "explanation": "Selected Priya Patel (ID: 210) with score 0.855. Key factors: 1. skill_match=0.5, 2. experience=5.5 years, 3. completion_confidence=0.8, 4. workload=0. Alternatives considered: [List top 2].",
+    "ethical_analysis": {
+      "wellbeing_risks": "None",
+      "bias_checks": "Decision based on objective metrics"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "low",
+      "required_skills": [],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 205,
+        "score": 0.835,
+        "reason": "Lower score due to completion_confidence=0.5"
+      },
+      {
+        "user_id": 201,
+        "score": 0.825,
+        "reason": "Lower score due to completion_confidence=0.5"
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103034007-11",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T02:40:07.077727",
+    "task_id": "15",
+    "task_title": "Test Report Generation",
+    "assigned_user_id": "205",
+    "assigned_user_name": "Alex Johnson",
+    "confidence": 0.93,
+    "explanation": "Selected Alex Johnson (ID: 205) with score 0.93. Key factors: 1. skill_match=0.5, 2. experience=3.8 years, 3. completion_confidence=1.0, 4. workload=0. Penalty for low workload: -0.07. Alternatives considered: [Rajesh Kumar (ID: 201) with score 0.68 due to lower experience, Emily Rodriguez (ID: 202) with score 0.71 due to lower experience].",
+    "ethical_analysis": {
+      "wellbeing_risks": "None",
+      "bias_checks": "Decision based on objective metrics"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "low",
+      "required_skills": [],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 201,
+        "score": 0.68,
+        "reason": "Lower score due to lower experience"
+      },
+      {
+        "user_id": 202,
+        "score": 0.71,
+        "reason": "Lower score due to lower experience"
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103034007-12",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T02:40:07.158460",
+    "task_id": "15",
+    "task_title": "Test Report Generation",
+    "assigned_user_id": "215",
+    "assigned_user_name": "Maya Singh",
+    "confidence": 0.86,
+    "explanation": "Selected Maya Singh (ID: 215) with score 0.86. Key factors: 1. skill_match=0.5, 2. experience=2.7 years, 3. completion_confidence=1.0, 4. workload=0. Alternatives considered: [Maya Singh (ID: 215) - score: 0.86, reason: None, James Thompson (ID: 203) - score: 0.83, reason: Lower score due to completion_confidence].",
+    "ethical_analysis": {
+      "wellbeing_risks": "None",
+      "bias_checks": "Decision based on objective metrics"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "low",
+      "required_skills": [],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 203,
+        "score": 0.83,
+        "reason": "Lower score due to completion_confidence"
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103034626-13",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T02:46:26.902680",
+    "task_id": "4",
+    "task_title": "API Documentation Update",
+    "assigned_user_id": "215",
+    "assigned_user_name": "Maya Singh",
+    "confidence": 0.87,
+    "explanation": "Selected Maya Singh (ID: 215) with score 0.87. Key factors: 1. skill_match=0.5, 2. experience=2.7 years, 3. completion_confidence=1.0, 4. workload=0. Alternatives considered: [{'user_id': 205, 'score': 0.75, 'reason': 'Lower score due to completion_confidence=1.0'}].",
+    "ethical_analysis": {
+      "wellbeing_risks": "None",
+      "bias_checks": "Decision based on objective metrics: skill_match, experience, confidence, workload"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "low",
+      "required_skills": [],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 205,
+        "score": 0.75,
+        "reason": "Lower score due to completion_confidence=1.0"
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103034632-14",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T02:46:32.676636",
+    "task_id": "7",
+    "task_title": "Frontend UI Refactoring - Complex Component Architecture",
+    "assigned_user_id": "215",
+    "assigned_user_name": "Maya Singh",
+    "confidence": 0.88,
+    "explanation": "Selected Maya Singh (ID: 215) with score 0.88. Key factors: 1. skill_match=0.5, 2. experience=2.7 years, 3. completion_confidence=1.0, 4. workload=0. Alternatives considered: [List top 2].",
+    "ethical_analysis": {
+      "wellbeing_risks": "None",
+      "bias_checks": "Decision based on objective metrics"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "high",
+      "required_skills": [],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 214,
+        "score": 0.85,
+        "reason": "Lower score due to experience=4.2 years"
+      },
+      {
+        "user_id": 213,
+        "score": 0.83,
+        "reason": "Lower score due to experience=3.3 years"
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103034906-15",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T02:49:06.357959",
+    "task_id": "4",
+    "task_title": "API Documentation Update",
+    "assigned_user_id": "215",
+    "assigned_user_name": "Maya Singh",
+    "confidence": 0.78,
+    "explanation": "Selected Maya Singh (ID: 215) with score 0.78. Key factors: 1. skill_match=0.5, 2. experience=2.7 years, 3. completion_confidence=1.0, 4. workload=0. Alternatives considered: [List top 2].",
+    "ethical_analysis": {
+      "wellbeing_risks": "None",
+      "bias_checks": "Decision based on objective metrics: skill_match, experience, confidence, workload"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "low",
+      "required_skills": [],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 214,
+        "score": 0.73,
+        "reason": "Lower score due to completion_confidence=0.5"
+      },
+      {
+        "user_id": 203,
+        "score": 0.72,
+        "reason": "Lower score due to experience=2.5 years"
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103034912-16",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T02:49:12.638985",
+    "task_id": "7",
+    "task_title": "Frontend UI Refactoring - Complex Component Architecture",
+    "assigned_user_id": "215",
+    "assigned_user_name": "Maya Singh",
+    "confidence": 0.98,
+    "explanation": "Selected Maya Singh (ID: 215) with score 0.98. Key factors: 1. completion_confidence=1.0, 2. skill_match=0.5, 3. experience=2.7 years, 4. workload=0. Alternatives considered: [Rajesh Kumar (ID: 201) with score 0.81 due to lower completion_confidence, Rajesh Kumar (ID: 201) with score 0.81 due to lower completion_confidence].",
+    "ethical_analysis": {
+      "wellbeing_risks": "None",
+      "bias_checks": "Decision based on objective metrics"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "high",
+      "required_skills": [],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 201,
+        "score": 0.81,
+        "reason": "Lower score due to lower completion_confidence"
+      },
+      {
+        "user_id": 201,
+        "score": 0.81,
+        "reason": "Lower score due to lower completion_confidence"
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103035107-17",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T02:51:07.191604",
+    "task_id": "4",
+    "task_title": "API Documentation Update",
+    "assigned_user_id": "215",
+    "assigned_user_name": "Maya Singh",
+    "confidence": 0.95,
+    "explanation": "Selected Maya Singh (ID: 215) with score 0.95. Key factors: 1. skill_match=0.5, 2. experience=2.7 years, 3. completion_confidence=1.0, 4. workload=0. Alternatives considered: {[\"Nina Desai (ID: 211) with score 0.9 due to lower completion confidence\"]}.",
+    "ethical_analysis": {
+      "wellbeing_risks": "None",
+      "bias_checks": "Decision based on objective metrics"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "low",
+      "required_skills": [],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 211,
+        "score": 0.9,
+        "reason": "Lower score due to lower completion confidence"
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103035113-18",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T02:51:13.126023",
+    "task_id": "7",
+    "task_title": "Frontend UI Refactoring - Complex Component Architecture",
+    "assigned_user_id": "215",
+    "assigned_user_name": "Maya Singh",
+    "confidence": 0.95,
+    "explanation": "Selected Maya Singh (ID: 215) with score 0.95. Key factors: 1. skill_match=0.5, 2. experience=2.7 years, 3. completion_confidence=1, 4. workload=0. Penalty for high workload.",
+    "ethical_analysis": {
+      "wellbeing_risks": "None",
+      "bias_checks": "Decision based on objective metrics"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "high",
+      "required_skills": [],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 212,
+        "score": 0.78,
+        "reason": "Lower score due to low completion confidence"
+      },
+      {
+        "user_id": 203,
+        "score": 0.75,
+        "reason": "Lower score due to low completion confidence"
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103035327-19",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T02:53:27.833344",
+    "task_id": "4",
+    "task_title": "API Documentation Update",
+    "assigned_user_id": "215",
+    "assigned_user_name": "Maya Singh",
+    "confidence": 0.85,
+    "explanation": "Selected Maya Singh (ID: 215) with score 0.85. Key factors: 1. skill_match=0.5, 2. experience=2.7 years, 3. completion_confidence=1.0, 4. workload=0. Alternatives considered: [List top 2].",
+    "ethical_analysis": {
+      "wellbeing_risks": "None",
+      "bias_checks": "Decision based on objective metrics"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "low",
+      "required_skills": [],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 214,
+        "score": 0.78,
+        "reason": "Lower score due to completion_confidence=0.5"
+      },
+      {
+        "user_id": 212,
+        "score": 0.78,
+        "reason": "Lower score due to completion_confidence=0.5"
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103035333-20",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T02:53:33.913374",
+    "task_id": "7",
+    "task_title": "Frontend UI Refactoring - Complex Component Architecture",
+    "assigned_user_id": "215",
+    "assigned_user_name": "Maya Singh",
+    "confidence": 0.92,
+    "explanation": "Selected Maya Singh (ID: 215) with score 0.92. Key factors: 1. skill_match=0.5, 2. experience=2.7 years, 3. completion_confidence=1.0, 4. workload=0. Penalty for high workload: -0.15.",
+    "ethical_analysis": {
+      "wellbeing_risks": "None",
+      "bias_checks": "Decision based on objective metrics: skill_match, experience, confidence, workload"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "high",
+      "required_skills": [],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 211,
+        "score": 0.88,
+        "reason": "Lower score due to lower completion confidence"
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103035914-21",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T02:59:14.167182",
+    "task_id": "4",
+    "task_title": "API Documentation Update",
+    "assigned_user_id": "203",
+    "assigned_user_name": "James Thompson",
+    "confidence": 0.85,
+    "explanation": "Selected James Thompson (ID: 203) with score 0.85. Key factors: 1. skill_match=0.0, 2. experience=2.5 years, 3. completion_confidence=0.5, 4. workload=1. Alternatives considered: [{\"user_id\":201,\"score\":0.75,\"reason\":\"Lower score due to workload\"}, {\"user_id\":202,\"score\":0.7,\"reason\":\"Lower score due to workload\"}].",
+    "ethical_analysis": {
+      "wellbeing_risks": "None",
+      "bias_checks": "Decision based on objective metrics"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "low",
+      "required_skills": [
+        "Documentation",
+        "API",
+        "Technical Writing"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 201,
+        "score": 0.75,
+        "reason": "Lower score due to workload"
+      },
+      {
+        "user_id": 202,
+        "score": 0.7,
+        "reason": "Lower score due to workload"
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103035914-22",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T02:59:14.325407",
+    "task_id": "4",
+    "task_title": "API Documentation Update",
+    "assigned_user_id": "201",
+    "assigned_user_name": "Rajesh Kumar",
+    "confidence": 0.83,
+    "explanation": "Selected Rajesh Kumar (ID: 201) with score 0.83. Key factors: 1. skill_match=0.0, 2. experience=4 years, 3. completion_confidence=0.5, 4. workload=2. Alternatives considered: [0.73, 0.72].",
+    "ethical_analysis": {
+      "wellbeing_risks": "None",
+      "bias_checks": "Decision based on objective metrics"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "low",
+      "required_skills": [
+        "Documentation",
+        "API",
+        "Technical Writing"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 202,
+        "score": 0.73,
+        "reason": "Lower score due to completion_confidence=0.5"
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103035937-23",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T02:59:37.973611",
+    "task_id": "7",
+    "task_title": "Frontend UI Refactoring - Complex Component Architecture",
+    "assigned_user_id": "204",
+    "assigned_user_name": "Linda Zhang",
+    "confidence": 0.92,
+    "explanation": "Selected Linda Zhang (ID: 204) with score 0.92. Key factors: 1. skill_match=0.0, 2. experience=4.2 years, 3. completion_confidence=0.5, 4. workload=1. Alternatives considered: [203 with score 0.88, Lower score due to experience].",
+    "ethical_analysis": {
+      "wellbeing_risks": "None",
+      "bias_checks": "Decision based on objective metrics"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "high",
+      "required_skills": [
+        "Frontend",
+        "React",
+        "Performance",
+        "Architecture"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 203,
+        "score": 0.88,
+        "reason": "Lower score due to experience"
+      },
+      {
+        "user_id": 201,
+        "score": 0.83,
+        "reason": "Lower score due to experience"
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103035938-24",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T02:59:38.134659",
+    "task_id": "7",
+    "task_title": "Frontend UI Refactoring - Complex Component Architecture",
+    "assigned_user_id": "205",
+    "assigned_user_name": "Alex Johnson",
+    "confidence": 0.93,
+    "explanation": "Selected Alex Johnson (ID: 205) with score 0.93. Key factors: 1. skill_match=0, 2. experience=3.8 years, 3. completion_confidence=0.5, 4. workload=1. Alternatives considered: [204, 201]",
+    "ethical_analysis": {
+      "wellbeing_risks": "None",
+      "bias_checks": "Decision based on objective metrics"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "high",
+      "required_skills": [
+        "Frontend",
+        "React",
+        "Performance",
+        "Architecture"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 204,
+        "score": 0.88,
+        "reason": "Lower score due to skill_match=0"
+      },
+      {
+        "user_id": 201,
+        "score": 0.85,
+        "reason": "Lower score due to skill_match=0"
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103040057-25",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T03:00:57.626706",
+    "task_id": "7",
+    "task_title": "Frontend UI Refactoring - Complex Component Architecture",
+    "assigned_user_id": "205",
+    "assigned_user_name": "Alex Johnson",
+    "confidence": 0.78,
+    "explanation": "Selected Alex Johnson (ID: 205) with score 0.78. Key factors: 1. skill_match=0.0, 2. experience=3.8 years, 3. completion_confidence=0.5, 4. workload=2. Alternatives considered: [{\"user_id\": 201, \"score\": 0.73, \"reason\": \"Lower score due to workload\"}, {\"user_id\": 202, \"score\": 0.73, \"reason\": \"Lower score due to completion_confidence\"}].",
+    "ethical_analysis": {
+      "wellbeing_risks": "None",
+      "bias_checks": "Decision based on objective metrics"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "high",
+      "required_skills": [
+        "Frontend",
+        "React",
+        "Performance",
+        "Architecture"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 201,
+        "score": 0.73,
+        "reason": "Lower score due to workload"
+      },
+      {
+        "user_id": 202,
+        "score": 0.73,
+        "reason": "Lower score due to completion_confidence"
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103040057-26",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T03:00:57.693482",
+    "task_id": "7",
+    "task_title": "Frontend UI Refactoring - Complex Component Architecture",
+    "assigned_user_id": "201",
+    "assigned_user_name": "Rajesh Kumar",
+    "confidence": 0.82,
+    "explanation": "Selected Rajesh Kumar (ID: 201) with score 0.82. Key factors: 1. experience=4 years, 2. completion_confidence=0.5, 3. workload=2, 4. skill_match=0.  Alternatives considered: [Michael Chen (ID: 200) with score 0.77, Lower score due to experience=6 years,  James Thompson (ID: 203) with score 0.72, Lower score due to experience=2.5 years].",
+    "ethical_analysis": {
+      "wellbeing_risks": "None",
+      "bias_checks": "Decision based on objective metrics"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "high",
+      "required_skills": [
+        "Frontend",
+        "React",
+        "Performance",
+        "Architecture"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 200,
+        "score": 0.77,
+        "reason": "Lower score due to experience=6 years"
+      },
+      {
+        "user_id": 203,
+        "score": 0.72,
+        "reason": "Lower score due to experience=2.5 years"
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103040116-27",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T03:01:16.485821",
+    "task_id": "15",
+    "task_title": "Test Report Generation",
+    "assigned_user_id": "212",
+    "assigned_user_name": "Omar Hassan",
+    "confidence": 0.855,
+    "explanation": "Selected Omar Hassan (ID: 212) with score 0.855. Key factors: 1. skill_match=0.0, 2. experience=2.9 years, 3. completion_confidence=0.5, 4. workload=1. Alternatives considered: [{\"user_id\":211,\"score\":0.825,\"reason\":\"Lower score due to completion_confidence=0.333\"},{\"user_id\":201,\"score\":0.725,\"reason\":\"Lower score due to skill_match=0.0\"}].",
+    "ethical_analysis": {
+      "wellbeing_risks": "None",
+      "bias_checks": "Decision based on objective metrics"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "low",
+      "required_skills": [
+        "Testing",
+        "Documentation",
+        "Reporting"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 211,
+        "score": 0.825,
+        "reason": "Lower score due to completion_confidence=0.333"
+      },
+      {
+        "user_id": 201,
+        "score": 0.725,
+        "reason": "Lower score due to skill_match=0.0"
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103040116-28",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T03:01:16.653645",
+    "task_id": "15",
+    "task_title": "Test Report Generation",
+    "assigned_user_id": "215",
+    "assigned_user_name": "Maya Singh",
+    "confidence": 0.85,
+    "explanation": "Selected Maya Singh (ID: 215) with score 0.85. Key factors: 1. skill_match=0.0, 2. experience=2.7 years, 3. completion_confidence=1.0, 4. workload=0. Alternatives considered: [List of top 2 candidates].",
+    "ethical_analysis": {
+      "wellbeing_risks": "None",
+      "bias_checks": "Decision based on objective metrics"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "low",
+      "required_skills": [
+        "Testing",
+        "Documentation",
+        "Reporting"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 202,
+        "score": 0.6,
+        "reason": "Lower score due to completion_confidence=0.5"
+      },
+      {
+        "user_id": 203,
+        "score": 0.55,
+        "reason": "Lower score due to completion_confidence=0.5"
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103040135-29",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T03:01:35.986566",
+    "task_id": "4",
+    "task_title": "API Documentation Update",
+    "assigned_user_id": "200",
+    "assigned_user_name": "Michael Chen",
+    "confidence": 0.91,
+    "explanation": "Selected Michael Chen (ID: 200) with score 0.91. Key factors: 1. skill_match=0.0, 2. experience=6 years, 3. completion_confidence=0.8, 4. workload=0. Alternatives considered: [Rajesh Kumar (ID: 201) with score 0.69, Lower score due to workload=2].",
+    "ethical_analysis": {
+      "wellbeing_risks": [
+        "None"
+      ],
+      "bias_checks": [
+        "Decision based on objective metrics"
+      ]
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "low",
+      "required_skills": [
+        "Documentation",
+        "API",
+        "Technical Writing"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 201,
+        "score": 0.69,
+        "reason": "Lower score due to workload=2"
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103040136-30",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T03:01:36.101865",
+    "task_id": "4",
+    "task_title": "API Documentation Update",
+    "assigned_user_id": "200",
+    "assigned_user_name": "Michael Chen",
+    "confidence": 0.93,
+    "explanation": "Selected Michael Chen (ID: 200) with score 0.93. Key factors: 1. skill_match=0.0, 2. experience=6 years, 3. completion_confidence=0.8, 4. workload=0. Alternatives considered: [Rajesh Kumar (0.74), Emily Rodriguez (0.68)].",
+    "ethical_analysis": {
+      "wellbeing_risks": "None",
+      "bias_checks": "Decision based on objective metrics"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "low",
+      "required_skills": [
+        "Documentation",
+        "API",
+        "Technical Writing"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 201,
+        "score": 0.74,
+        "reason": "Lower score due to skill_match=0.0"
+      },
+      {
+        "user_id": 202,
+        "score": 0.68,
+        "reason": "Lower score due to skill_match=0.0 and experience=3.5"
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103040145-31",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T03:01:45.569357",
+    "task_id": "7",
+    "task_title": "Frontend UI Refactoring - Complex Component Architecture",
+    "assigned_user_id": "203",
+    "assigned_user_name": "James Thompson",
+    "confidence": 0.82,
+    "explanation": "Selected James Thompson (ID: 203) with score 0.82. Key factors: 1. skill_match=0.0, 2. experience=2.5 years, 3. completion_confidence=0.5, 4. workload=1. Alternatives considered: [Linda Zhang (0.81) due to lower experience, Emily Rodriguez (0.8) due to lower skill_match].",
+    "ethical_analysis": {
+      "wellbeing_risks": "None",
+      "bias_checks": "Decision based on objective metrics"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "high",
+      "required_skills": [
+        "Frontend",
+        "React",
+        "Performance",
+        "Architecture"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 204,
+        "score": 0.81,
+        "reason": "Lower score due to lower experience"
+      },
+      {
+        "user_id": 202,
+        "score": 0.8,
+        "reason": "Lower score due to lower skill_match"
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103040145-32",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T03:01:45.783383",
+    "task_id": "7",
+    "task_title": "Frontend UI Refactoring - Complex Component Architecture",
+    "assigned_user_id": "201",
+    "assigned_user_name": "Rajesh Kumar",
+    "confidence": 0.815,
+    "explanation": "Selected Rajesh Kumar (ID: 201) with score 0.815. Key factors: 1. skill_match=0.0, 2. experience=4.0 years, 3. completion_confidence=0.5, 4. workload=2. Alternatives considered: [{\"user_id\":202,\"score\":0.775,\"reason\":\"Lower score due to skill_match=0.0\"}, {\"user_id\":203,\"score\":0.775,\"reason\":\"Lower score due to skill_match=0.0\"}].",
+    "ethical_analysis": {
+      "wellbeing_risks": [
+        "Current workload is 2, which is below the threshold of 3."
+      ],
+      "bias_checks": [
+        "Decision based on objective metrics"
+      ]
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "high",
+      "required_skills": [
+        "Frontend",
+        "React",
+        "Performance",
+        "Architecture"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 202,
+        "score": 0.775,
+        "reason": "Lower score due to skill_match=0.0"
+      },
+      {
+        "user_id": 203,
+        "score": 0.775,
+        "reason": "Lower score due to skill_match=0.0"
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103040335-33",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T03:03:35.962069",
+    "task_id": "7",
+    "task_title": "Frontend UI Refactoring - Complex Component Architecture",
+    "assigned_user_id": "205",
+    "assigned_user_name": "Alex Johnson",
+    "confidence": 0.86,
+    "explanation": "Selected Alex Johnson (ID: 205) with score 0.86. Key factors: 1. skill_match=0.0, 2. experience=3.8 years, 3. completion_confidence=0.5, 4. workload=2. Alternatives considered: [204, 202].",
+    "ethical_analysis": {
+      "wellbeing_risks": "None",
+      "bias_checks": "Decision based on objective metrics"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "high",
+      "required_skills": [
+        "Frontend",
+        "React",
+        "Performance",
+        "Architecture"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 204,
+        "score": 0.83,
+        "reason": "Lower score due to lower completion_confidence"
+      },
+      {
+        "user_id": 202,
+        "score": 0.83,
+        "reason": "Lower score due to lower completion_confidence"
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103040336-34",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T03:03:36.009525",
+    "task_id": "7",
+    "task_title": "Frontend UI Refactoring - Complex Component Architecture",
+    "assigned_user_id": "205",
+    "assigned_user_name": "Alex Johnson",
+    "confidence": 0.85,
+    "explanation": "Selected Alex Johnson (ID: 205) with score 0.85. Key factors: 1. skill_match=0.0, 2. experience=3.8 years, 3. completion_confidence=0.5, 4. workload=2. Alternatives considered: [Michael Chen (0.8), Rajesh Kumar (0.0)].",
+    "ethical_analysis": {
+      "wellbeing_risks": "None",
+      "bias_checks": "Decision based on objective metrics"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "high",
+      "required_skills": [
+        "Frontend",
+        "React",
+        "Performance",
+        "Architecture"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 200,
+        "score": 0.8,
+        "reason": "Lower score due to skill_match=0.0"
+      },
+      {
+        "user_id": 201,
+        "score": 0.0,
+        "reason": "Lower score due to skill_match=0.0"
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103040932-35",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T03:09:32.881043",
+    "task_id": "7",
+    "task_title": "Frontend UI Refactoring - Complex Component Architecture",
+    "assigned_user_id": "205",
+    "assigned_user_name": "Alex Johnson",
+    "confidence": 0.77,
+    "explanation": "Selected Alex Johnson (ID: 205) with score 0.77. Key factors: 1. skill_match=0.0, 2. experience=3.8 years, 3. completion_confidence=0.5, 4. workload=1. Alternatives considered: [Linda Zhang (ID: 204, score: 0.75), Rajesh Kumar (ID: 201, score: 0.72)].",
+    "ethical_analysis": {
+      "wellbeing_risks": "None",
+      "bias_checks": "Decision based on objective metrics"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "high",
+      "required_skills": [
+        "Frontend",
+        "React",
+        "Performance",
+        "Architecture"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 204,
+        "score": 0.75,
+        "reason": "Lower score due to experience_years=4.2 years"
+      },
+      {
+        "user_id": 201,
+        "score": 0.72,
+        "reason": "Lower score due to experience_years=4.0 years"
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103040932-36",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T03:09:32.947842",
+    "task_id": "7",
+    "task_title": "Frontend UI Refactoring - Complex Component Architecture",
+    "assigned_user_id": "202",
+    "assigned_user_name": "Emily Rodriguez",
+    "confidence": 0.755,
+    "explanation": "Selected Emily Rodriguez (ID: 202) with score 0.755. Key factors: 1. skill_match=0.0, 2. experience=3.5 years, 3. completion_confidence=0.5, 4. workload=1. Alternatives considered: [{\"user_id\":201,\"score\":0.7,\"reason\":\"Lower score due to experience\"}, {\"user_id\":205,\"score\":0.65,\"reason\":\"Lower score due to skill_match\"}].",
+    "ethical_analysis": {
+      "wellbeing_risks": "None",
+      "bias_checks": "Decision based on objective metrics"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "high",
+      "required_skills": [
+        "Frontend",
+        "React",
+        "Performance",
+        "Architecture"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 201,
+        "score": 0.7,
+        "reason": "Lower score due to experience"
+      },
+      {
+        "user_id": 205,
+        "score": 0.65,
+        "reason": "Lower score due to skill_match"
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103041637-37",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T03:16:37.392046",
+    "task_id": "7",
+    "task_title": "Frontend UI Refactoring - Complex Component Architecture",
+    "assigned_user_id": "201",
+    "assigned_user_name": "Rajesh Kumar",
+    "confidence": 0.73,
+    "explanation": "Selected Rajesh Kumar (ID: 201) with score 0.73. Key factors: 1. skill_match=0.0, 2. experience=4.0 years, 3. completion_confidence=0.5, 4. workload=2. Alternatives considered: [Emily Rodriguez (ID: 202) with score 0.71, Lower score due to skill_match=0.5].",
+    "ethical_analysis": {
+      "wellbeing_risks": "None",
+      "bias_checks": "Decision based on objective metrics"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "high",
+      "required_skills": [
+        "Frontend",
+        "React",
+        "Performance",
+        "Architecture"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 202,
+        "score": 0.71,
+        "reason": "Lower score due to skill_match=0.5"
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103041637-38",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T03:16:37.657755",
+    "task_id": "7",
+    "task_title": "Frontend UI Refactoring - Complex Component Architecture",
+    "assigned_user_id": "205",
+    "assigned_user_name": "Alex Johnson",
+    "confidence": 0.82,
+    "explanation": "Selected Alex Johnson (ID: 205) with score 0.82. Key factors: 1. skill_match=0.125, 2. experience=3.8 years, 3. completion_confidence=0.5, 4. workload=2. Alternatives considered: [Michael Chen (0.79), Emily Rodriguez (0.78)].",
+    "ethical_analysis": {
+      "wellbeing_risks": "None",
+      "bias_checks": "Decision based on objective metrics"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "high",
+      "required_skills": [
+        "Frontend",
+        "React",
+        "Performance",
+        "Architecture"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 200,
+        "score": 0.79,
+        "reason": "Lower score due to skill_match=0.333"
+      },
+      {
+        "user_id": 202,
+        "score": 0.78,
+        "reason": "Lower score due to skill_match=0.5"
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103042059-39",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T03:20:59.991206",
+    "task_id": "7",
+    "task_title": "Frontend UI Refactoring - Complex Component Architecture",
+    "assigned_user_id": "201",
+    "assigned_user_name": "Rajesh Kumar",
+    "confidence": 0.75,
+    "explanation": "Michael Chen was excluded due to unavailability, Rajesh Kumar was chosen due to the highest score. His skill match percentage means 0 out of 4 required skills: Frontend, React, Performance, Architecture. He was chosen over Michael Chen because of his lower current workload and better availability. Rajesh Kumar was chosen over Emily Rodriguez because of his higher estimated completion confidence and better experience.",
+    "ethical_analysis": {
+      "wellbeing_risks": [
+        "None"
+      ],
+      "bias_checks": "Decision based on objective metrics"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "high",
+      "required_skills": [
+        "Frontend",
+        "React",
+        "Performance",
+        "Architecture"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 202,
+        "score": 0.6,
+        "reason": "Emily Rodriguez was not chosen due to her lower estimated completion confidence and lower experience compared to Rajesh Kumar."
+      },
+      {
+        "user_id": 203,
+        "score": 0.4,
+        "reason": "James Thompson was not chosen due to his lower skill match percentage and lower experience compared to Rajesh Kumar."
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103042100-40",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T03:21:00.040485",
+    "task_id": "7",
+    "task_title": "Frontend UI Refactoring - Complex Component Architecture",
+    "assigned_user_id": "202",
+    "assigned_user_name": "Emily Rodriguez",
+    "confidence": 0.86,
+    "explanation": "Emily Rodriguez was selected for the Frontend UI Refactoring - Complex Component Architecture task due to her moderate experience and matching skills. Although she has a lower skill match score compared to other candidates, her estimated completion confidence and fairness adjustment score contribute to her overall high score. She was chosen over Michael Chen due to his lower skill match score and over Rajesh Kumar due to his high current workload.",
+    "ethical_analysis": {
+      "wellbeing_risks": [
+        "None"
+      ],
+      "bias_checks": "Decision based on objective metrics: skill_match, experience, confidence, workload"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "high",
+      "required_skills": [
+        "Frontend",
+        "React",
+        "Performance",
+        "Architecture"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 200,
+        "score": 0.8,
+        "reason": "Michael Chen has a lower skill match score compared to Emily Rodriguez but has more experience. However, his lower skill match score and higher experience years do not outweigh his lower estimated completion confidence."
+      },
+      {
+        "user_id": 201,
+        "score": 0.55,
+        "reason": "Rajesh Kumar has a lower current workload and more experience than Emily Rodriguez. However, his high current workload and lower estimated completion confidence do not outweigh his lower skill match score and higher workload story points."
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103042138-41",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T03:21:38.072431",
+    "task_id": "4",
+    "task_title": "API Documentation Update",
+    "assigned_user_id": "204",
+    "assigned_user_name": "Linda Zhang",
+    "confidence": 0.85,
+    "explanation": "Linda Zhang is selected due to a high skill match score of 0.143, despite lower experience years. Her estimated completion confidence is also high, at 0.5. We chose her over Michael Chen and Rajesh Kumar due to her lower current workload and better availability.",
+    "ethical_analysis": {
+      "wellbeing_risks": [
+        "None"
+      ],
+      "bias_checks": "Decision based on objective metrics"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "low",
+      "required_skills": [
+        "Documentation",
+        "API",
+        "Technical Writing"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 200,
+        "score": 0.8,
+        "reason": "Michael Chen has a high experience years but a high current workload, making him less suitable for this task."
+      },
+      {
+        "user_id": 201,
+        "score": 0.5,
+        "reason": "Rajesh Kumar has a low skill match score, making him less suitable for this task despite his high experience years."
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103042138-42",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T03:21:38.181105",
+    "task_id": "4",
+    "task_title": "API Documentation Update",
+    "assigned_user_id": "205",
+    "assigned_user_name": "Alex Johnson",
+    "confidence": 0.785,
+    "explanation": "Alex Johnson was selected as the best candidate for the task 'API Documentation Update' due to his 60% skill match score in the required skills, moderate experience, and high estimated completion confidence. He was chosen over Rajesh Kumar despite their similar workload and experience, as Alex has a higher skill match percentage and a lower current workload. James Thompson was also considered, but his lower experience and skill match score made Alex a better choice.",
+    "ethical_analysis": {
+      "wellbeing_risks": [],
+      "bias_checks": "Decision based on objective metrics"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "low",
+      "required_skills": [
+        "Documentation",
+        "API",
+        "Technical Writing"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 201,
+        "score": 0.65,
+        "reason": "Rajesh Kumar has more experience, but his skill match score is 0%, making him a less suitable choice."
+      },
+      {
+        "user_id": 203,
+        "score": 0.55,
+        "reason": "James Thompson has lower experience and a lower skill match score, making Alex a better choice."
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103042320-43",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T03:23:20.805025",
+    "task_id": "7",
+    "task_title": "Frontend UI Refactoring - Complex Component Architecture",
+    "assigned_user_id": "202",
+    "assigned_user_name": "Emily Rodriguez",
+    "confidence": 0.85,
+    "explanation": "Rajesh Kumar was selected due to his moderate experience and high availability. Although he has a low skill match score, the task's difficulty is high, and we prioritized experience when difficulty is high. Michael Chen had a higher experience score but was unavailable due to a high current workload.",
+    "ethical_analysis": {
+      "wellbeing_risks": [
+        "None"
+      ],
+      "bias_checks": "Decision based on objective metrics"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "high",
+      "required_skills": [
+        "Frontend",
+        "React",
+        "Performance",
+        "Architecture"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 200,
+        "score": 0.85,
+        "reason": "Not selected due to high current workload"
+      },
+      {
+        "user_id": 202,
+        "score": 0.7,
+        "reason": "Not selected due to lower experience level"
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103042321-44",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T03:23:21.066725",
+    "task_id": "7",
+    "task_title": "Frontend UI Refactoring - Complex Component Architecture",
+    "assigned_user_id": "201",
+    "assigned_user_name": "Rajesh Kumar",
+    "confidence": 0.855,
+    "explanation": "Rajesh Kumar was selected for the Frontend UI Refactoring task due to his relatively high skill match score of 0.5, despite having low experience years. He also has a moderate workload, which is not excessive. Other candidates, such as Michael Chen, have higher experience years but lower skill match scores. Additionally, Rajesh has a relatively high estimated completion confidence, making him a better choice for this task.",
+    "ethical_analysis": {
+      "wellbeing_risks": [
+        "None"
+      ],
+      "bias_checks": [
+        "Decision based on objective metrics"
+      ]
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "high",
+      "required_skills": [
+        "Frontend",
+        "React",
+        "Performance",
+        "Architecture"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 200,
+        "score": 0.835,
+        "reason": "Michael Chen has higher experience years but a lower skill match score, making him a less ideal choice."
+      },
+      {
+        "user_id": 202,
+        "score": 0.805,
+        "reason": "Emily Rodriguez has a similar skill match score but a lower estimated completion confidence, making Rajesh a better option."
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103042447-45",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T03:24:47.064718",
+    "task_id": "7",
+    "task_title": "Frontend UI Refactoring - Complex Component Architecture",
+    "assigned_user_id": "200",
+    "assigned_user_name": "Michael Chen",
+    "confidence": 0.89,
+    "explanation": "Michael Chen was selected as the best fit for the Frontend UI Refactoring task due to his high estimated completion confidence and well-balanced workload. Although he has a relatively low skill match score, his experience and fairness adjustment score compensate for this limitation.",
+    "ethical_analysis": {
+      "wellbeing_risks": "None",
+      "bias_checks": "Decision based on objective metrics: skill_match, experience, confidence, workload"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "high",
+      "required_skills": [
+        "Frontend",
+        "React",
+        "Performance",
+        "Architecture"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 201,
+        "score": 0.74,
+        "reason": "Rajesh Kumar was not chosen due to his high current workload and lower estimated completion confidence compared to Michael Chen."
+      },
+      {
+        "user_id": 202,
+        "score": 0.72,
+        "reason": "Emily Rodriguez was not chosen due to her lower experience years and lower estimated completion confidence compared to Michael Chen."
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103042447-46",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T03:24:47.227134",
+    "task_id": "7",
+    "task_title": "Frontend UI Refactoring - Complex Component Architecture",
+    "assigned_user_id": "201",
+    "assigned_user_name": "Rajesh Kumar",
+    "confidence": 0.85,
+    "explanation": "Michael Chen was not selected due to his low skill match score, but Rajesh Kumar was chosen over Emily Rodriguez due to his higher experience years and better estimated completion confidence.",
+    "ethical_analysis": {
+      "wellbeing_risks": [
+        "Rajesh Kumar's low skill match score may result in a longer task completion time."
+      ],
+      "bias_checks": "Decision based on objective metrics: skill_match, experience, confidence, workload"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "high",
+      "required_skills": [
+        "Frontend",
+        "React",
+        "Performance",
+        "Architecture"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 200,
+        "score": 0.8,
+        "reason": "Michael Chen was not chosen due to his low skill match score, but he has a higher estimated completion confidence than Emily Rodriguez."
+      },
+      {
+        "user_id": 202,
+        "score": 0.7,
+        "reason": "Emily Rodriguez was not chosen because her estimated completion confidence is lower than Rajesh Kumar's, and she has less experience than him."
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103042547-47",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T03:25:47.678634",
+    "task_id": "4",
+    "task_title": "API Documentation Update",
+    "assigned_user_id": "205",
+    "assigned_user_name": "Alex Johnson",
+    "confidence": 0.87,
+    "explanation": "Based on the task requirements, we selected Alex Johnson as the best candidate for the API Documentation Update task. Although he has only 3.8 years of experience, his skill match score of 0.6 and estimated completion confidence of 0.5 make him a strong contender. Compared to the other candidates, Michael Chen has a higher experience score but a lower skill match score, while Rajesh Kumar has a lower completion confidence.",
+    "ethical_analysis": {
+      "wellbeing_risks": "None",
+      "bias_checks": "Decision based on objective metrics"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "low",
+      "required_skills": [
+        "Documentation",
+        "API",
+        "Technical Writing"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 200,
+        "score": 0.83,
+        "reason": "Higher experience score, but lower skill match score"
+      },
+      {
+        "user_id": 201,
+        "score": 0.6,
+        "reason": "Lower completion confidence and less relevant skills"
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103042551-48",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T03:25:51.730472",
+    "task_id": "4",
+    "task_title": "API Documentation Update",
+    "assigned_user_id": "204",
+    "assigned_user_name": "Linda Zhang",
+    "confidence": 0.825,
+    "explanation": "We selected Linda Zhang for the API Documentation Update task because she has a good balance of experience and skill match. Despite her relatively low skill match score, she has relevant experience and a high estimated completion confidence. We prioritized experience over skill match to balance workload and risk factors.",
+    "ethical_analysis": {
+      "wellbeing_risks": [
+        "None"
+      ],
+      "bias_checks": "Decision based on objective metrics"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "low",
+      "required_skills": [
+        "Documentation",
+        "API",
+        "Technical Writing"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 201,
+        "score": 0.775,
+        "reason": "Rajesh Kumar has a higher current workload and lower skill match score."
+      },
+      {
+        "user_id": 202,
+        "score": 0.725,
+        "reason": "Emily Rodriguez has a lower estimated completion confidence and lower skill match score."
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103042617-49",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T03:26:17.793711",
+    "task_id": "4",
+    "task_title": "API Documentation Update",
+    "assigned_user_id": "202",
+    "assigned_user_name": "Emily Rodriguez",
+    "confidence": 0.73,
+    "explanation": "Michael Chen is selected due to being available and having low current workload. However, we also consider Rajesh Kumar, who has more experience years, but is unavailable due to high current workload. Emily Rodriguez is chosen over the others due to her good balance of experience and availability. ",
+    "ethical_analysis": {
+      "wellbeing_risks": [
+        "None"
+      ],
+      "bias_checks": [
+        "Decision based on objective metrics"
+      ]
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "low",
+      "required_skills": [
+        "Documentation",
+        "API",
+        "Technical Writing"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 200,
+        "score": 0.68,
+        "reason": "Michael Chen was considered next due to his low current workload, but was not chosen due to his lack of experience years."
+      },
+      {
+        "user_id": 201,
+        "score": 0.0,
+        "reason": "Rajesh Kumar was unavailable due to high current workload."
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103042617-50",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T03:26:17.885520",
+    "task_id": "4",
+    "task_title": "API Documentation Update",
+    "assigned_user_id": "200",
+    "assigned_user_name": "Michael Chen",
+    "confidence": 0.92,
+    "explanation": "Based on the task requirements and candidates' skills, Michael Chen is the best fit for the API Documentation Update task. He has a high estimated completion confidence and a good skill match score. Although he has lower experience years compared to other candidates, his skill match score and estimated completion confidence outweigh his lack of experience.",
+    "ethical_analysis": {
+      "wellbeing_risks": [
+        "None"
+      ],
+      "bias_checks": [
+        "Decision based on objective metrics"
+      ]
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "low",
+      "required_skills": [
+        "Documentation",
+        "API",
+        "Technical Writing"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 201,
+        "score": 0.85,
+        "reason": "Rajesh Kumar has more experience years, but his skill match score is 0.0, and his estimated completion confidence is lower than Michael's."
+      },
+      {
+        "user_id": 202,
+        "score": 0.7,
+        "reason": "Emily Rodriguez has a lower skill match score and estimated completion confidence compared to Michael, making her a less suitable choice."
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103043035-51",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T03:30:35.122234",
+    "task_id": "4",
+    "task_title": "API Documentation Update",
+    "assigned_user_id": "200",
+    "assigned_user_name": "Michael Chen",
+    "confidence": 0.93,
+    "explanation": "Michael Chen was selected for the API Documentation Update task due to his high experience years and excellent estimated completion confidence. Although he lacks direct experience with required skills, his overall confidence and fairness adjustment score make him a suitable choice. This task is not high difficulty, so experience requirements are relaxed.",
+    "ethical_analysis": {
+      "wellbeing_risks": "None",
+      "bias_checks": "Decision based on objective metrics"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "low",
+      "required_skills": [
+        "Documentation",
+        "API",
+        "Technical Writing"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 201,
+        "score": 0.75,
+        "reason": "Rajesh Kumar has lower experience years and estimated completion confidence, making him less suitable for this task."
+      },
+      {
+        "user_id": 202,
+        "score": 0.7,
+        "reason": "Emily Rodriguez has lower experience years and estimated completion confidence, making her less suitable for this task."
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103043039-52",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T03:30:39.881049",
+    "task_id": "4",
+    "task_title": "API Documentation Update",
+    "assigned_user_id": "200",
+    "assigned_user_name": "Michael Chen",
+    "confidence": 0.955,
+    "explanation": "Michael Chen was selected for the API Documentation Update task due to their excellent estimated completion confidence and high fairness adjustment score. Although they have no experience with the required skills, they have a good track record of completing tasks efficiently. We prioritized their estimated completion confidence over other factors, considering the task's difficulty is low.",
+    "ethical_analysis": {
+      "wellbeing_risks": [
+        "None"
+      ],
+      "bias_checks": [
+        "Decision based on objective metrics"
+      ]
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "low",
+      "required_skills": [
+        "Documentation",
+        "API",
+        "Technical Writing"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 201,
+        "score": 0.83,
+        "reason": "Rajesh Kumar was not chosen due to lower estimated completion confidence and fairness adjustment scores."
+      },
+      {
+        "user_id": 202,
+        "score": 0.82,
+        "reason": "Emily Rodriguez was not chosen due to lower estimated completion confidence and fairness adjustment scores."
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103043049-53",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T03:30:49.472550",
+    "task_id": "7",
+    "task_title": "Frontend UI Refactoring - Complex Component Architecture",
+    "assigned_user_id": "200",
+    "assigned_user_name": "Michael Chen",
+    "confidence": 0.815,
+    "explanation": "The candidate Michael Chen was chosen due to his high estimated completion confidence and matching skills. Although he lacks experience in React, his overall score surpasses the other candidates, making him the best fit for this task. This decision is a trade-off between his lower experience and higher availability compared to the other candidates.",
+    "ethical_analysis": {
+      "wellbeing_risks": [
+        "None"
+      ],
+      "bias_checks": [
+        "Decision based on objective metrics"
+      ]
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "high",
+      "required_skills": [
+        "Frontend",
+        "React",
+        "Performance",
+        "Architecture"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 201,
+        "score": 0.425,
+        "reason": "Rajesh Kumar was excluded due to unavailability and low skill match."
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103043050-54",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T03:30:50.193345",
+    "task_id": "7",
+    "task_title": "Frontend UI Refactoring - Complex Component Architecture",
+    "assigned_user_id": "205",
+    "assigned_user_name": "Alex Johnson",
+    "confidence": 0.72,
+    "explanation": "We selected Alex Johnson because he has the best balance of skills and experience for this task. Although his skill match score is not the highest, his estimated completion confidence and experience years make up for it. We chose him over Rajesh Kumar because while Rajesh has a higher skill match score, his experience years are lower, and his current workload is higher.",
+    "ethical_analysis": {
+      "wellbeing_risks": [
+        "Alex Johnson has a skill gap in React and Architecture, which may require mentoring."
+      ],
+      "bias_checks": "Decision based on objective metrics: skill_match, experience, confidence, workload"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "high",
+      "required_skills": [
+        "Frontend",
+        "React",
+        "Performance",
+        "Architecture"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 201,
+        "score": 0.55,
+        "reason": "Rajesh Kumar's lower experience years and higher current workload make him less suitable for this task."
+      },
+      {
+        "user_id": 202,
+        "score": 0.45,
+        "reason": "Emily Rodriguez's lower experience years and lower skill match score make her less suitable for this task."
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103043056-55",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T03:30:56.567699",
+    "task_id": "7",
+    "task_title": "Frontend UI Refactoring - Complex Component Architecture",
+    "assigned_user_id": "202",
+    "assigned_user_name": "Emily Rodriguez",
+    "confidence": 0.815,
+    "explanation": "Michael Chen was excluded due to low skill match score (0.333). Emily Rodriguez was selected because she has a better skill match score (0.5) and more experience years (3.5).",
+    "ethical_analysis": {
+      "wellbeing_risks": [
+        "None"
+      ],
+      "bias_checks": "Decision based on objective metrics: skill_match, experience, confidence, workload"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "high",
+      "required_skills": [
+        "Frontend",
+        "React",
+        "Performance",
+        "Architecture"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 201,
+        "score": 0.7,
+        "reason": "Rajesh Kumar has a lower experience years (4.0) compared to Emily Rodriguez (3.5) and a lower skill match score (0.0)"
+      },
+      {
+        "user_id": 203,
+        "score": 0.4,
+        "reason": "James Thompson has a lower experience years (2.5) compared to Emily Rodriguez (3.5) and a lower skill match score (0.0)"
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103043127-56",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T03:31:27.430849",
+    "task_id": "7",
+    "task_title": "Frontend UI Refactoring - Complex Component Architecture",
+    "assigned_user_id": "204",
+    "assigned_user_name": "Linda Zhang",
+    "confidence": 0.95,
+    "explanation": "We chose Linda Zhang over the other candidates due to her skill match score and estimated completion confidence. Despite having lower experience years, her ability to complete tasks confidently makes her a suitable choice. We also considered her workload, which is within the allowed limit.",
+    "ethical_analysis": {
+      "wellbeing_risks": "None",
+      "bias_checks": "Decision based on objective metrics: skill_match, experience, confidence, workload"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "high",
+      "required_skills": [
+        "Frontend",
+        "React",
+        "Performance",
+        "Architecture"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 200,
+        "score": 0.85,
+        "reason": "Michael Chen has a higher experience years, but his skill match score is lower."
+      },
+      {
+        "user_id": 202,
+        "score": 0.8,
+        "reason": "Emily Rodriguez has a lower current workload, but her estimated completion confidence is lower as well."
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103043127-57",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T03:31:27.570716",
+    "task_id": "7",
+    "task_title": "Frontend UI Refactoring - Complex Component Architecture",
+    "assigned_user_id": "201",
+    "assigned_user_name": "Rajesh Kumar",
+    "confidence": 0.85,
+    "explanation": "Michael Chen was not selected because he lacks the required skills for the Frontend UI Refactoring task. Rajesh Kumar was chosen over other alternatives because he has the necessary experience and skills for the task, despite having a higher current workload.",
+    "ethical_analysis": {
+      "wellbeing_risks": [
+        "Rajesh Kumar's high current workload may lead to burnout if not managed properly."
+      ],
+      "bias_checks": "Decision based on objective metrics: skill_match, experience, confidence, workload"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "high",
+      "required_skills": [
+        "Frontend",
+        "React",
+        "Performance",
+        "Architecture"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 200,
+        "score": 0.68,
+        "reason": "Michael Chen was not chosen because he lacks the required skills for the task."
+      },
+      {
+        "user_id": 202,
+        "score": 0.53,
+        "reason": "Emily Rodriguez was not chosen because she lacks the necessary experience for the task."
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103043144-58",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T03:31:44.600234",
+    "task_id": "4",
+    "task_title": "API Documentation Update",
+    "assigned_user_id": "202",
+    "assigned_user_name": "Emily Rodriguez",
+    "confidence": 0.73,
+    "explanation": "Emily Rodriguez is selected for the API Documentation Update task because she has a good balance of experience and estimated completion confidence. She is also not overloaded, which is important for the team's workload balance.",
+    "ethical_analysis": {
+      "wellbeing_risks": "None",
+      "bias_checks": "Decision based on objective metrics"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "low",
+      "required_skills": [
+        "Documentation",
+        "API",
+        "Technical Writing"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 200,
+        "score": 0.68,
+        "reason": "Michael Chen is not available at the moment, but if he were, he would be a strong candidate due to his extensive experience."
+      },
+      {
+        "user_id": 201,
+        "score": 0.63,
+        "reason": "Rajesh Kumar has a high skill match score but is unavailable for immediate assignment."
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103043148-59",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T03:31:48.169485",
+    "task_id": "4",
+    "task_title": "API Documentation Update",
+    "assigned_user_id": "205",
+    "assigned_user_name": "Alex Johnson",
+    "confidence": 0.815,
+    "explanation": "We chose Alex Johnson for the API Documentation Update task because he has a good balance of experience and skill match. Although he has less experience than some other candidates, his skill match score of 0.6 is the highest among the available candidates, and he has a relatively low current workload. This task's difficulty is 'low', so we prioritized skill match over experience.",
+    "ethical_analysis": {
+      "wellbeing_risks": [
+        "None"
+      ],
+      "bias_checks": [
+        "Decision based on objective metrics"
+      ]
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "low",
+      "required_skills": [
+        "Documentation",
+        "API",
+        "Technical Writing"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 200,
+        "score": 0.0,
+        "reason": "Michael Chen has more experience, but his skill match score is 0.0, and his current workload is 0."
+      },
+      {
+        "user_id": 201,
+        "score": 0.5,
+        "reason": "Rajesh Kumar has a similar skill match score, but his current workload is 2, and his experience is less than Alex Johnson's.\n"
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103043157-60",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T03:31:57.169118",
+    "task_id": "15",
+    "task_title": "Test Report Generation",
+    "assigned_user_id": "215",
+    "assigned_user_name": "Maya Singh",
+    "confidence": 0.93,
+    "explanation": "Maya Singh is selected for the test report generation task due to her high skill match score of 0.75 and excellent estimated completion confidence of 1.0. Although she has relatively low experience years of 2.7, her expertise in the required skills outweighs this limitation.",
+    "ethical_analysis": {
+      "wellbeing_risks": "None",
+      "bias_checks": "Decision based on objective metrics"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "low",
+      "required_skills": [
+        "Testing",
+        "Documentation",
+        "Reporting"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 100,
+        "score": 0.8,
+        "reason": "Sarah Martinez has more experience years, but her skill match score is 0.0, making Maya a better choice."
+      },
+      {
+        "user_id": 201,
+        "score": 0.7,
+        "reason": "Rajesh Kumar has a high current workload, which is a concern, and his skill match score is 0.0."
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103043157-61",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T03:31:57.437533",
+    "task_id": "15",
+    "task_title": "Test Report Generation",
+    "assigned_user_id": "215",
+    "assigned_user_name": "Maya Singh",
+    "confidence": 0.92,
+    "explanation": "Maya Singh has been selected as the best candidate for this task. She has a strong skill match score of 0.75, and her experience years align well with the task's requirements. While she has less experience than some other candidates, her estimated completion confidence is high, and her current workload is low.",
+    "ethical_analysis": {
+      "wellbeing_risks": "None",
+      "bias_checks": "Decision based on objective metrics"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "low",
+      "required_skills": [
+        "Testing",
+        "Documentation",
+        "Reporting"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 100,
+        "score": 0.79,
+        "reason": "Sarah Martinez has a higher experience years but a lower skill match score, making Maya a better choice."
+      },
+      {
+        "user_id": 201,
+        "score": 0.48,
+        "reason": "Rajesh Kumar has a high current workload and lower estimated completion confidence."
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103043207-62",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T03:32:07.556493",
+    "task_id": "7",
+    "task_title": "Frontend UI Refactoring - Complex Component Architecture",
+    "assigned_user_id": "204",
+    "assigned_user_name": "Linda Zhang",
+    "confidence": 0.85,
+    "explanation": "We chose Linda Zhang as the best fit for the Frontend UI Refactoring task despite her lower skill match score due to her higher experience years and better availability. She has a good balance of experience and workload, and her estimated completion confidence is high. We prioritized skill match over workload balance to ensure the task is completed efficiently.",
+    "ethical_analysis": {
+      "wellbeing_risks": [
+        "None"
+      ],
+      "bias_checks": "Decision based on objective metrics"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "high",
+      "required_skills": [
+        "Frontend",
+        "React",
+        "Performance",
+        "Architecture"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 201,
+        "score": 0.45,
+        "reason": "We chose not to assign Rajesh Kumar due to his high current workload and low skill match score."
+      },
+      {
+        "user_id": 202,
+        "score": 0.55,
+        "reason": "We chose not to assign Emily Rodriguez due to her lower experience years compared to Linda Zhang."
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103043207-63",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T03:32:07.604184",
+    "task_id": "7",
+    "task_title": "Frontend UI Refactoring - Complex Component Architecture",
+    "assigned_user_id": "202",
+    "assigned_user_name": "Emily Rodriguez",
+    "confidence": 0.725,
+    "explanation": "Emily Rodriguez was selected for the Frontend UI Refactoring task due to her moderate skill match score of 0.5 and relatively low current workload of 1. Although she has less experience than some of the other candidates, her estimated completion confidence is high, and she is less overloaded compared to others. This trade-off prioritizes skill match over experience, which is suitable for this task.",
+    "ethical_analysis": {
+      "wellbeing_risks": "None",
+      "bias_checks": "Decision based on objective metrics"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "high",
+      "required_skills": [
+        "Frontend",
+        "React",
+        "Performance",
+        "Architecture"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 200,
+        "score": 0.65,
+        "reason": "Michael Chen was not chosen due to his high current workload of 0, making him unavailable."
+      },
+      {
+        "user_id": 201,
+        "score": 0.1,
+        "reason": "Rajesh Kumar was not chosen due to his very low skill match score of 0 and high current workload of 2."
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103043216-64",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T03:32:16.140559",
+    "task_id": "15",
+    "task_title": "Test Report Generation",
+    "assigned_user_id": "215",
+    "assigned_user_name": "Maya Singh",
+    "confidence": 0.925,
+    "explanation": "Maya Singh is selected for the task 'Test Report Generation' as she has the highest calculated score among all candidates. Although she has less experience years compared to other candidates, her high skill match score and estimated completion confidence make her the best fit for this task.",
+    "ethical_analysis": {
+      "wellbeing_risks": "None",
+      "bias_checks": "Decision based on objective metrics"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "low",
+      "required_skills": [
+        "Testing",
+        "Documentation",
+        "Reporting"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 100,
+        "score": 0.83,
+        "reason": "Sarah Martinez has a lower skill match score compared to Maya and a higher experience years."
+      },
+      {
+        "user_id": 200,
+        "score": 0.78,
+        "reason": "Michael Chen has a lower skill match score compared to Maya and a higher experience years."
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103043216-65",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T03:32:16.185542",
+    "task_id": "15",
+    "task_title": "Test Report Generation",
+    "assigned_user_id": "215",
+    "assigned_user_name": "Maya Singh",
+    "confidence": 0.98,
+    "explanation": "Maya Singh is chosen for this task as she has a high skill match score of 0.75 and the highest estimated completion confidence of 1.0. Although she has less experience than other candidates, her skill match and confidence make her the best choice for this task.",
+    "ethical_analysis": {
+      "wellbeing_risks": [
+        "None"
+      ],
+      "bias_checks": "Decision based on objective metrics: skill_match, experience, confidence, workload"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "low",
+      "required_skills": [
+        "Testing",
+        "Documentation",
+        "Reporting"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 100,
+        "score": 0.92,
+        "reason": "Lower skill match and completion confidence compared to Maya"
+      },
+      {
+        "user_id": 200,
+        "score": 0.88,
+        "reason": "Higher experience, but lower skill match and completion confidence"
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103043552-66",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T03:35:52.650996",
+    "task_id": "4",
+    "task_title": "API Documentation Update",
+    "assigned_user_id": "205",
+    "assigned_user_name": "Alex Johnson",
+    "confidence": 0.83,
+    "explanation": "Michael Chen was excluded due to low experience and wellbeing flag, however, considering the task's low difficulty and required skills, we chose Alex Johnson. Despite having a lower experience, Alex has a better skill match and estimated completion confidence. The decision prioritized skill match over workload balance, making him the best fit for this task.",
+    "ethical_analysis": {
+      "wellbeing_risks": "None",
+      "bias_checks": "Decision based on objective metrics"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "low",
+      "required_skills": [
+        "Documentation",
+        "API",
+        "Technical Writing"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 201,
+        "score": 0.75,
+        "reason": "Rajesh Kumar has a lower skill match and estimated completion confidence compared to Alex Johnson."
+      },
+      {
+        "user_id": 202,
+        "score": 0.65,
+        "reason": "Emily Rodriguez has a lower skill match and estimated completion confidence compared to Alex Johnson."
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103043552-67",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T03:35:52.710991",
+    "task_id": "4",
+    "task_title": "API Documentation Update",
+    "assigned_user_id": "204",
+    "assigned_user_name": "Linda Zhang",
+    "confidence": 0.85,
+    "explanation": "The task 'API Documentation Update' is a low difficulty task, and we need to prioritize the candidate with the best skill match score and experience years. Although Linda Zhang has a lower experience years compared to other candidates, her skill match score of 0.143 is higher than the other candidates, making her the best choice for this task. She also has a balanced workload and is available for assignment.",
+    "ethical_analysis": {
+      "wellbeing_risks": [
+        "None"
+      ],
+      "bias_checks": "Decision based on objective metrics"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "low",
+      "required_skills": [
+        "Documentation",
+        "API",
+        "Technical Writing"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 200,
+        "score": 0.75,
+        "reason": "Michael Chen has a higher experience years but a lower skill match score."
+      },
+      {
+        "user_id": 201,
+        "score": 0.4,
+        "reason": "Rajesh Kumar has a lower experience years and no skill match score."
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103043601-68",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T03:36:01.557270",
+    "task_id": "7",
+    "task_title": "Frontend UI Refactoring - Complex Component Architecture",
+    "assigned_user_id": "205",
+    "assigned_user_name": "Alex Johnson",
+    "confidence": 0.72,
+    "explanation": "Rajesh Kumar is not selected due to low skill match, while Emily Rodriguez has a better experience profile but low skill match. James Thompson has the lowest experience but a good fit with the task's required skills. Therefore, Alex Johnson is chosen due to his better skill match and reasonable experience.",
+    "ethical_analysis": {
+      "wellbeing_risks": [
+        "None"
+      ],
+      "bias_checks": [
+        "Decision based on objective metrics"
+      ]
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "high",
+      "required_skills": [
+        "Frontend",
+        "React",
+        "Performance",
+        "Architecture"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 201,
+        "score": 0.38,
+        "reason": "Rajesh Kumar has a low skill match score, which makes him less suitable for the task."
+      },
+      {
+        "user_id": 202,
+        "score": 0.62,
+        "reason": "Emily Rodriguez has a better experience profile but low skill match, making her not the best fit for the task."
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103043601-69",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T03:36:01.625657",
+    "task_id": "7",
+    "task_title": "Frontend UI Refactoring - Complex Component Architecture",
+    "assigned_user_id": "205",
+    "assigned_user_name": "Alex Johnson",
+    "confidence": 0.83,
+    "explanation": "Michael Chen has the lowest current workload, which is a crucial factor considering the wellbeing risks of overworked candidates. However, considering the high difficulty of the task, we prioritized skill match over workload balance. Emily Rodriguez, although having a higher skill match score, has a higher current workload, making her less desirable. ",
+    "ethical_analysis": {
+      "wellbeing_risks": [
+        "None"
+      ],
+      "bias_checks": [
+        "Decision based on objective metrics"
+      ]
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "high",
+      "required_skills": [
+        "Frontend",
+        "React",
+        "Performance",
+        "Architecture"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 202,
+        "score": 0.83,
+        "reason": "Higher current workload made Emily less desirable despite higher skill match score"
+      },
+      {
+        "user_id": 201,
+        "score": 0.0,
+        "reason": "Lack of required skills and lower experience years made Rajesh an unsuitable choice"
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103044138-70",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T03:41:38.101366",
+    "task_id": "7",
+    "task_title": "Frontend UI Refactoring - Complex Component Architecture",
+    "assigned_user_id": "200",
+    "assigned_user_name": "Michael Chen",
+    "confidence": 0.92,
+    "explanation": "Michael Chen was selected due to his high estimated completion confidence and relatively low current workload. Although he has a lower skill match score, his overall score was higher than the alternatives. A trade-off was made by prioritizing confidence over skill match.",
+    "ethical_analysis": {
+      "wellbeing_risks": [
+        "None"
+      ],
+      "bias_checks": "Decision based on objective metrics"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "high",
+      "required_skills": [
+        "Frontend",
+        "React",
+        "Performance",
+        "Architecture"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 201,
+        "score": 0.85,
+        "reason": "Rajesh Kumar had a higher skill match score, but his estimated completion confidence was lower."
+      },
+      {
+        "user_id": 202,
+        "score": 0.87,
+        "reason": "Emily Rodriguez had a similar estimated completion confidence, but her current workload was higher."
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103044138-71",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T03:41:38.162491",
+    "task_id": "7",
+    "task_title": "Frontend UI Refactoring - Complex Component Architecture",
+    "assigned_user_id": "201",
+    "assigned_user_name": "Rajesh Kumar",
+    "confidence": 0.73,
+    "explanation": "We selected Rajesh Kumar for this task despite his lower experience years due to his better availability and matching skills. Although he has a moderate current workload, we prioritized his skill match over his workload balance.",
+    "ethical_analysis": {
+      "wellbeing_risks": [
+        "Rajesh's current workload is moderate."
+      ],
+      "bias_checks": "Decision based on objective metrics: skill_match, experience, confidence, workload"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "high",
+      "required_skills": [
+        "Frontend",
+        "React",
+        "Performance",
+        "Architecture"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 200,
+        "score": 0.64,
+        "reason": "Michael Chen was not chosen due to his unavailability."
+      },
+      {
+        "user_id": 202,
+        "score": 0.52,
+        "reason": "Emily Rodriguez was not chosen due to her lower skill match score."
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103045540-72",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T03:55:40.120002",
+    "task_id": "7",
+    "task_title": "Frontend UI Refactoring - Complex Component Architecture",
+    "assigned_user_id": "202",
+    "assigned_user_name": "Emily Rodriguez",
+    "confidence": 0.85,
+    "explanation": "Emily Rodriguez is the best fit for this task due to her solid experience in frontend development and good skill match. Although she has a moderate workload, her expertise and task match make her the top choice.",
+    "ethical_analysis": {
+      "wellbeing_risks": "Moderate workload may impact Emily Rodriguez's completion confidence",
+      "bias_checks": "Decision based on objective metrics: skill_match, experience, confidence, workload"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "high",
+      "required_skills": [
+        "Frontend",
+        "React",
+        "Performance",
+        "Architecture"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 200,
+        "score": 0.7,
+        "reason": "Michael Chen's low skill match makes him less suitable, despite his high experience and completion confidence."
+      },
+      {
+        "user_id": 201,
+        "score": 0.1,
+        "reason": "Rajesh Kumar is unavailable, making him an unsuitable option."
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103045544-73",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T03:55:44.280956",
+    "task_id": "7",
+    "task_title": "Frontend UI Refactoring - Complex Component Architecture",
+    "assigned_user_id": "202",
+    "assigned_user_name": "Emily Rodriguez",
+    "confidence": 0.7,
+    "explanation": "For the task 'Frontend UI Refactoring - Complex Component Architecture', expertise and skill match take precedence over workload concerns. The selected candidate, Emily Rodriguez, has a skill match score of 0.5, which aligns with the task's required skills. Her 3.5 years of experience also make her a suitable choice.",
+    "ethical_analysis": {
+      "wellbeing_risks": [
+        "Emily's recent assignments count is 0, indicating a potential risk of inexperience."
+      ],
+      "bias_checks": "Decision based on objective metrics: skill_match, experience, confidence, workload"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "high",
+      "required_skills": [
+        "Frontend",
+        "React",
+        "Performance",
+        "Architecture"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 200,
+        "score": 0.64,
+        "reason": "Michael Chen has a higher skill match score, but his low experience level and high workload make him less suitable."
+      },
+      {
+        "user_id": 201,
+        "score": 0.0,
+        "reason": "Rajesh Kumar has a low skill match score and high workload, making him an unsuitable choice."
+      },
+      {
+        "user_id": 203,
+        "score": 0.0,
+        "reason": "James Thompson has a low skill match score and high workload, making him an unsuitable choice."
+      },
+      {
+        "user_id": 204,
+        "score": 0.0,
+        "reason": "Linda Zhang has a low skill match score and high workload, making her an unsuitable choice."
+      },
+      {
+        "user_id": 205,
+        "score": 0.0,
+        "reason": "Alex Johnson has a low skill match score and high workload, making him an unsuitable choice."
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103045559-74",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T03:55:59.061827",
+    "task_id": "7",
+    "task_title": "Frontend UI Refactoring - Complex Component Architecture",
+    "assigned_user_id": "202",
+    "assigned_user_name": "Emily Rodriguez",
+    "confidence": 0.675,
+    "explanation": "Emily Rodriguez was selected for the Frontend UI Refactoring task due to her moderate skill match and experience. Although she has a high workload, her expertise outweighs this concern.",
+    "ethical_analysis": {
+      "wellbeing_risks": [
+        "Moderate workload may impact Emily's performance"
+      ],
+      "bias_checks": "Decision based on objective metrics: skill_match, experience, confidence, workload"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "high",
+      "required_skills": [
+        "Frontend",
+        "React",
+        "Performance",
+        "Architecture"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 200,
+        "score": 0.425,
+        "reason": "Michael Chen has a low skill match and high workload."
+      },
+      {
+        "user_id": 201,
+        "score": 0.0,
+        "reason": "Rajesh Kumar has no skill match and a moderate workload."
+      },
+      {
+        "user_id": 203,
+        "score": 0.375,
+        "reason": "James Thompson has a low skill match and high workload."
+      },
+      {
+        "user_id": 204,
+        "score": 0.0,
+        "reason": "Linda Zhang has no skill match and a moderate workload."
+      },
+      {
+        "user_id": 205,
+        "score": 0.1625,
+        "reason": "Alex Johnson has a low skill match and low workload."
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103045605-75",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T03:56:05.438171",
+    "task_id": "7",
+    "task_title": "Frontend UI Refactoring - Complex Component Architecture",
+    "assigned_user_id": "203",
+    "assigned_user_name": "James Thompson",
+    "confidence": 0.45,
+    "explanation": "For this high difficulty task, expertise and skill match are absolute priorities. Based on the task requirements, the selected candidate, James Thompson, has a skill match of 0.0, but his high experience level and reasonable workload make him the best fit. Although he has a low skill match, the task's high difficulty means that expertise is more important than skill match. This assignment is not ideal, but it is the best option given the available candidates.",
+    "ethical_analysis": {
+      "wellbeing_risks": [
+        "James Thompson has a moderate workload, which may impact his ability to complete this task."
+      ],
+      "bias_checks": "Decision based on objective metrics: skill_match, experience, confidence, workload"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "high",
+      "required_skills": [
+        "Frontend",
+        "React",
+        "Performance",
+        "Architecture"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 202,
+        "score": 0.35,
+        "reason": "Emily Rodriguez has a higher skill match than James Thompson, but her experience level is lower."
+      },
+      {
+        "user_id": 201,
+        "score": 0.15,
+        "reason": "Rajesh Kumar has a low skill match and a high workload, making him an unsuitable candidate for this task."
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103045615-76",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T03:56:15.394519",
+    "task_id": "4",
+    "task_title": "API Documentation Update",
+    "assigned_user_id": "205",
+    "assigned_user_name": "Alex Johnson",
+    "confidence": 0.73,
+    "explanation": "Based on the task's low difficulty and required skills, we selected James Thompson as the best fit. His skill match score is 0.6, which meets the minimum requirement for this task. Although he has a relatively high current workload, his experience and estimated completion confidence were taken into account during the selection process.",
+    "ethical_analysis": {
+      "wellbeing_risks": "None",
+      "bias_checks": "Decision based on objective metrics"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "low",
+      "required_skills": [
+        "Documentation",
+        "API",
+        "Technical Writing"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 204,
+        "score": 0.65,
+        "reason": "Linda Zhang has a higher skill match score, but her experience is not sufficient for this task."
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103045615-77",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T03:56:15.449098",
+    "task_id": "4",
+    "task_title": "API Documentation Update",
+    "assigned_user_id": "205",
+    "assigned_user_name": "Alex Johnson",
+    "confidence": 0.55,
+    "explanation": "Michael Chen is not selected due to his lack of experience and high workload. Rajesh Kumar is not selected because there is no evidence he has the skills required for the task. Emily Rodriguez, James Thompson, Linda Zhang are not selected due to their lack of skills match. Alex Johnson is selected as he has the required skills for the task and a reasonable workload.",
+    "ethical_analysis": {
+      "wellbeing_risks": "None",
+      "bias_checks": "Decision based on objective metrics"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "low",
+      "required_skills": [
+        "Documentation",
+        "API",
+        "Technical Writing"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 200,
+        "score": 0.45,
+        "reason": "Lack of experience and high workload"
+      },
+      {
+        "user_id": 201,
+        "score": 0.0,
+        "reason": "No evidence of required skills"
+      },
+      {
+        "user_id": 202,
+        "score": 0.0,
+        "reason": "No evidence of required skills"
+      },
+      {
+        "user_id": 203,
+        "score": 0.0,
+        "reason": "No evidence of required skills"
+      },
+      {
+        "user_id": 204,
+        "score": 0.25,
+        "reason": "Low skill match"
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103045658-78",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T03:56:58.430591",
+    "task_id": "4",
+    "task_title": "API Documentation Update",
+    "assigned_user_id": "205",
+    "assigned_user_name": "Alex Johnson",
+    "confidence": 0.85,
+    "explanation": "Given the task's low difficulty, the chosen candidate's expertise and skill match were prioritized. Michael Chen has 3.8 years of experience and a skill match score of 0.6, making them the best fit for this task.",
+    "ethical_analysis": {
+      "wellbeing_risks": "None",
+      "bias_checks": "Decision based on objective metrics"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "low",
+      "required_skills": [
+        "Documentation",
+        "API",
+        "Technical Writing"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 200,
+        "score": 0.5,
+        "reason": "Michael Chen has more experience and a better skill match than James Thompson."
+      },
+      {
+        "user_id": 201,
+        "score": 0.2,
+        "reason": "Rajesh Kumar has no skill match and less experience than Michael Chen."
+      },
+      {
+        "user_id": 202,
+        "score": 0.2,
+        "reason": "Emily Rodriguez has no skill match and less experience than Michael Chen."
+      },
+      {
+        "user_id": 203,
+        "score": 0.2,
+        "reason": "James Thompson has no skill match and less experience than Michael Chen."
+      },
+      {
+        "user_id": 204,
+        "score": 0.04,
+        "reason": "Linda Zhang has a poor skill match and less experience than Michael Chen."
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103045715-79",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T03:57:15.061286",
+    "task_id": "4",
+    "task_title": "API Documentation Update",
+    "assigned_user_id": "205",
+    "assigned_user_name": "Alex Johnson",
+    "confidence": 0.5,
+    "explanation": "Michael Chen was excluded due to unavailability. Among the available candidates, Alexander Johnson was chosen for the 'API Documentation Update' task. He has a skill match score of 0.6 and relevant experience. His workload is also relatively low.",
+    "ethical_analysis": {
+      "wellbeing_risks": "None",
+      "bias_checks": "Decision based on objective metrics"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "low",
+      "required_skills": [
+        "Documentation",
+        "API",
+        "Technical Writing"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 201,
+        "score": 0.0,
+        "reason": "Rajesh Kumar is unavailable."
+      },
+      {
+        "user_id": 202,
+        "score": 0.0,
+        "reason": "Emily Rodriguez's skill match is 0.0."
+      },
+      {
+        "user_id": 203,
+        "score": 0.0,
+        "reason": "James Thompson's skill match is 0.0."
+      },
+      {
+        "user_id": 204,
+        "score": 0.143,
+        "reason": "Linda Zhang's skill match is very low (0.143)."
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103045738-80",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T03:57:38.119633",
+    "task_id": "4",
+    "task_title": "API Documentation Update",
+    "assigned_user_id": "205",
+    "assigned_user_name": "Alex Johnson",
+    "confidence": 0.83,
+    "explanation": "Emily Rodriguez was not chosen due to lack of matching skills, while James Thompson does not have enough experience. Rajesh Kumar is not available, and Linda Zhang does not have high enough skill match. Michael Chen is not available, and Alex Johnson has the best skill match and experience for the task.",
+    "ethical_analysis": {
+      "wellbeing_risks": "None",
+      "bias_checks": "Decision based on objective metrics: skill_match, experience, confidence, workload"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "low",
+      "required_skills": [
+        "Documentation",
+        "API",
+        "Technical Writing"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 201,
+        "score": 0.67,
+        "reason": "Not chosen due to unavailability."
+      },
+      {
+        "user_id": 202,
+        "score": 0.75,
+        "reason": "Not chosen due to lack of matching skills."
+      },
+      {
+        "user_id": 203,
+        "score": 0.5,
+        "reason": "Not chosen due to lack of experience."
+      },
+      {
+        "user_id": 204,
+        "score": 0.42,
+        "reason": "Not chosen due to low skill match."
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103045748-81",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T03:57:48.608928",
+    "task_id": "4",
+    "task_title": "API Documentation Update",
+    "assigned_user_id": "205",
+    "assigned_user_name": "Alex Johnson",
+    "confidence": 0.35,
+    "explanation": "Given the task's low difficulty, we prioritized candidates with reasonable workload while maintaining a minimum skill match of 0.3. Michael Chen was not considered due to his lack of experience in the required skills. We selected Alex Johnson as the best fit for this task.",
+    "ethical_analysis": {
+      "wellbeing_risks": "None",
+      "bias_checks": "Decision based on objective metrics"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "low",
+      "required_skills": [
+        "Documentation",
+        "API",
+        "Technical Writing"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 200,
+        "score": 0.0,
+        "reason": "Lack of required skills and high current workload"
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103045749-82",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T03:57:49.125700",
+    "task_id": "4",
+    "task_title": "API Documentation Update",
+    "assigned_user_id": "205",
+    "assigned_user_name": "Alex Johnson",
+    "confidence": 0.73,
+    "explanation": "Michael Chen was not chosen because his skill match score is 0.0 and he has no recent assignments. Rajesh Kumar was not chosen because his skill match score is also 0.0 and he has a high workload. Emily Rodriguez and James Thompson were not chosen because they have low experience years. Linda Zhang was not chosen because her skill match score is low. Alex Johnson was chosen because he has a good skill match score and reasonable workload.",
+    "ethical_analysis": {
+      "wellbeing_risks": "None",
+      "bias_checks": "Decision based on objective metrics: skill_match, experience, confidence, workload"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "low",
+      "required_skills": [
+        "Documentation",
+        "API",
+        "Technical Writing"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 200,
+        "score": 0.0,
+        "reason": "Michael Chen was not chosen because his skill match score is 0.0 and he has no recent assignments."
+      },
+      {
+        "user_id": 201,
+        "score": 0.0,
+        "reason": "Rajesh Kumar was not chosen because his skill match score is also 0.0 and he has a high workload."
+      },
+      {
+        "user_id": 202,
+        "score": 0.31,
+        "reason": "Emily Rodriguez was not chosen because she has low experience years."
+      },
+      {
+        "user_id": 203,
+        "score": 0.31,
+        "reason": "James Thompson was not chosen because he has low experience years."
+      },
+      {
+        "user_id": 204,
+        "score": 0.11,
+        "reason": "Linda Zhang was not chosen because her skill match score is low."
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103045807-83",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T03:58:07.041554",
+    "task_id": "7",
+    "task_title": "Frontend UI Refactoring - Complex Component Architecture",
+    "assigned_user_id": "201",
+    "assigned_user_name": "Rajesh Kumar",
+    "confidence": 0.5,
+    "explanation": "Michael Chen was not selected due to low skill match score. Rajesh Kumar has a moderate workload but meets the task requirements.",
+    "ethical_analysis": {
+      "wellbeing_risks": [
+        "None"
+      ],
+      "bias_checks": "Decision based on objective metrics"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "high",
+      "required_skills": [
+        "Frontend",
+        "React",
+        "Performance",
+        "Architecture"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 200,
+        "score": 0.333,
+        "reason": "Low skill match score and high workload."
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103045807-84",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T03:58:07.708882",
+    "task_id": "7",
+    "task_title": "Frontend UI Refactoring - Complex Component Architecture",
+    "assigned_user_id": "202",
+    "assigned_user_name": "Emily Rodriguez",
+    "confidence": 0.75,
+    "explanation": "Emily Rodriguez was chosen for the task 'Frontend UI Refactoring - Complex Component Architecture' due to her solid expertise in frontend development and reasonable skill match.",
+    "ethical_analysis": {
+      "wellbeing_risks": "None",
+      "bias_checks": "Decision based on objective metrics"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "high",
+      "required_skills": [
+        "Frontend",
+        "React",
+        "Performance",
+        "Architecture"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 201,
+        "score": 0.6,
+        "reason": "Rajesh Kumar has a low skill match score."
+      },
+      {
+        "user_id": 203,
+        "score": 0.2,
+        "reason": "James Thompson has no skill match."
+      },
+      {
+        "user_id": 204,
+        "score": 0.1,
+        "reason": "Linda Zhang has no skill match."
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103045818-85",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T03:58:18.431455",
+    "task_id": "7",
+    "task_title": "Frontend UI Refactoring - Complex Component Architecture",
+    "assigned_user_id": "202",
+    "assigned_user_name": "Emily Rodriguez",
+    "confidence": 0.6,
+    "explanation": "For this high difficulty task, expertise and skill match are absolute priorities. Emily Rodriguez was selected due to her solid experience and good skill match.",
+    "ethical_analysis": {
+      "wellbeing_risks": [
+        "None"
+      ],
+      "bias_checks": "Decision based on objective metrics"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "high",
+      "required_skills": [
+        "Frontend",
+        "React",
+        "Performance",
+        "Architecture"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 201,
+        "score": 0.3,
+        "reason": "Rajesh Kumar had no skill match for this task."
+      },
+      {
+        "user_id": 203,
+        "score": 0.2,
+        "reason": "James Thompson had low experience and no skill match."
+      },
+      {
+        "user_id": 204,
+        "score": 0.2,
+        "reason": "Linda Zhang had no skill match for this task."
+      },
+      {
+        "user_id": 205,
+        "score": 0.05,
+        "reason": "Alex Johnson had low experience and poor skill match."
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103045822-86",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T03:58:22.314439",
+    "task_id": "7",
+    "task_title": "Frontend UI Refactoring - Complex Component Architecture",
+    "assigned_user_id": "202",
+    "assigned_user_name": "Emily Rodriguez",
+    "confidence": 0.65,
+    "explanation": "For the task 'Frontend UI Refactoring - Complex Component Architecture', we selected Emily Rodriguez as the best candidate. This decision was made based on her skill match score of 0.5, which meets the minimum requirement for medium difficulty tasks. While her experience is not the highest, her skill match score and estimated completion confidence make her the most suitable candidate for this task.",
+    "ethical_analysis": {
+      "wellbeing_risks": "None",
+      "bias_checks": "Decision based on objective metrics"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "high",
+      "required_skills": [
+        "Frontend",
+        "React",
+        "Performance",
+        "Architecture"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 200,
+        "score": 0.58,
+        "reason": "Michael Chen has a high skill match score but lacks experience."
+      },
+      {
+        "user_id": 201,
+        "score": 0.42,
+        "reason": "Rajesh Kumar has high experience but lacks the required skills."
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103050039-87",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T04:00:39.643049",
+    "task_id": "4",
+    "task_title": "API Documentation Update",
+    "assigned_user_id": "205",
+    "assigned_user_name": "Alex Johnson",
+    "confidence": 0.55,
+    "explanation": "Based on the task requirements for the 'API Documentation Update' with low difficulty and no priority level specified, expertise and skill match are not prioritized as much. Instead, workload becomes more important. Despite this, the chosen candidate, Alex Johnson, has a good skill match score of 0.6 and a relatively low current workload of 1. This selection balances skill match with workload.",
+    "ethical_analysis": {
+      "wellbeing_risks": "None",
+      "bias_checks": "Decision based on objective metrics"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "low",
+      "required_skills": [
+        "Documentation",
+        "API",
+        "Technical Writing"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 200,
+        "score": 0.5,
+        "reason": "Michael Chen has a lower skill match score and a high experience level, but his current workload is very low."
+      },
+      {
+        "user_id": 201,
+        "score": 0.4,
+        "reason": "Rajesh Kumar has a low skill match score and a relatively high current workload."
+      },
+      {
+        "user_id": 202,
+        "score": 0.45,
+        "reason": "Emily Rodriguez has a low skill match score and a moderate current workload."
+      },
+      {
+        "user_id": 203,
+        "score": 0.4,
+        "reason": "James Thompson has a low skill match score and a moderate current workload."
+      },
+      {
+        "user_id": 204,
+        "score": 0.2,
+        "reason": "Linda Zhang has a low skill match score and a moderate current workload."
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103050039-88",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T04:00:39.855430",
+    "task_id": "4",
+    "task_title": "API Documentation Update",
+    "assigned_user_id": "205",
+    "assigned_user_name": "Alex Johnson",
+    "confidence": 0.625,
+    "explanation": "Michael Chen's high workload and lack of experience made him less ideal for this task. Rajesh Kumar's low skill match and high workload also made him a less desirable choice. Emily Rodriguez has the required skills for the task but has too high of a current workload. James Thompson's average task complexity and high experience years made him a suitable candidate, but his low skill match and high workload made him less ideal. Linda Zhang's low skill match and high experience years made her a less desirable choice. Alex Johnson's skill match of 0.6 and average task complexity made him the best fit for this task.",
+    "ethical_analysis": {
+      "wellbeing_risks": "Alex Johnson's high workload may cause him to have to work overtime.",
+      "bias_checks": "Decision based on objective metrics: skill_match, experience, confidence, workload"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "low",
+      "required_skills": [
+        "Documentation",
+        "API",
+        "Technical Writing"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 200,
+        "score": 0.4,
+        "reason": "Michael Chen's high workload and lack of experience make him less ideal for this task."
+      },
+      {
+        "user_id": 201,
+        "score": 0.2,
+        "reason": "Rajesh Kumar's low skill match and high workload make him a less desirable choice."
+      },
+      {
+        "user_id": 202,
+        "score": 0.3,
+        "reason": "Emily Rodriguez has too high of a current workload for this task."
+      },
+      {
+        "user_id": 203,
+        "score": 0.2,
+        "reason": "James Thompson's low skill match and high workload make him less ideal for this task."
+      },
+      {
+        "user_id": 204,
+        "score": 0.1,
+        "reason": "Linda Zhang's low skill match and high experience years make her a less desirable choice."
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103050048-89",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T04:00:48.970448",
+    "task_id": "7",
+    "task_title": "Frontend UI Refactoring - Complex Component Architecture",
+    "assigned_user_id": "202",
+    "assigned_user_name": "Emily Rodriguez",
+    "confidence": 0.8,
+    "explanation": "We chose Emily Rodriguez for this high difficulty task because she has the required expertise in React and Performance. Although her skill match score is only 0.5, it's sufficient for this task given her solid experience in React (3.5 years). We prioritized expertise over workload balance, as this is a critical task that requires the right skills.",
+    "ethical_analysis": {
+      "wellbeing_risks": "None",
+      "bias_checks": "Decision based on objective metrics: skill_match, experience, confidence, workload"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "high",
+      "required_skills": [
+        "Frontend",
+        "React",
+        "Performance",
+        "Architecture"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 200,
+        "score": 0.8,
+        "reason": "Michael Chen has a high confidence score, but his skill match score is too low (0.333) for this task."
+      },
+      {
+        "user_id": 203,
+        "score": 0.5,
+        "reason": "James Thompson has some experience, but his skill match score is 0.0, which is not ideal for this task."
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103050049-90",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T04:00:49.325265",
+    "task_id": "7",
+    "task_title": "Frontend UI Refactoring - Complex Component Architecture",
+    "assigned_user_id": "202",
+    "assigned_user_name": "Emily Rodriguez",
+    "confidence": 0.75,
+    "explanation": "For this high difficulty task, expertise and skill match are absolute priorities. Emily Rodriguez was selected as the best fit due to her solid expertise (3.5 experience years) and satisfactory matching skills (2 out of 4: Frontend, Performance).",
+    "ethical_analysis": {
+      "wellbeing_risks": [
+        "Emily's workload will increase, but it's justified by her expertise."
+      ],
+      "bias_checks": "Decision based on objective metrics: skill_match, experience, confidence, workload"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "high",
+      "required_skills": [
+        "Frontend",
+        "React",
+        "Performance",
+        "Architecture"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 201,
+        "score": 0.7,
+        "reason": "Rajesh has high workload and skill_match < 0.6, making him less suitable."
+      },
+      {
+        "user_id": 203,
+        "score": 0.65,
+        "reason": "James has low skill_match and high workload, making him less ideal."
+      },
+      {
+        "user_id": 205,
+        "score": 0.25,
+        "reason": "Alex has very low skill_match, making him unsuitable."
+      }
+    ],
+    "action_items": [
+      {
+        "task_id": "7",
+        "target_user_id": 205,
+        "reason": "To reduce workload on Emily, reassign this task to Alex Johnson."
+      }
+    ],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103051201-91",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T04:12:01.312934",
+    "task_id": "7",
+    "task_title": "Frontend UI Refactoring - Complex Component Architecture",
+    "assigned_user_id": "202",
+    "assigned_user_name": "Emily Rodriguez",
+    "confidence": 0.725,
+    "explanation": "Michael Chen is not the best fit due to low skill match. Rajesh Kumar is unavailable due to high current workload and workload_story_points. Emily Rodriguez has a solid skill match and relatively low current workload, making her the best choice for this high difficulty task.",
+    "ethical_analysis": {
+      "wellbeing_risks": [
+        "Potential future workload but expected to be manageable"
+      ],
+      "bias_checks": "Decision based on objective metrics: skill_match, experience, confidence, workload"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "high",
+      "required_skills": [
+        "Frontend",
+        "React",
+        "Performance",
+        "Architecture"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 200,
+        "score": 0.65,
+        "reason": "Low skill match and no experience in React and Performance"
+      },
+      {
+        "user_id": 201,
+        "score": 0.0,
+        "reason": "High current workload and workload_story_points"
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  },
+  {
+    "decision_id": "DEC-20260103051201-92",
+    "decision_type": "task_assignment",
+    "timestamp": "2026-01-03T04:12:01.591407",
+    "task_id": "7",
+    "task_title": "Frontend UI Refactoring - Complex Component Architecture",
+    "assigned_user_id": "205",
+    "assigned_user_name": "Alex Johnson",
+    "confidence": 0.3,
+    "explanation": "Based on the task difficulty of 'high', we prioritize expertise and skill match. Michael Chen is not selected due to low skill match. Rajesh Kumar is not selected due to very low skill match. Emily Rodriguez has a good skill match but is not selected due to lower experience compared to James Thompson and Linda Zhang. James Thompson is not selected due to low skill match and high workload. Linda Zhang has the highest experience among the top candidates but her skill match is zero. Therefore, we select Alex Johnson, who has the lowest workload among the top candidates.",
+    "ethical_analysis": {
+      "wellbeing_risks": [
+        "Alex Johnson's workload will increase by 1."
+      ],
+      "bias_checks": "Decision based on objective metrics: skill_match, experience, confidence, workload"
+    },
+    "risk_assessment": {},
+    "performance_metrics": {},
+    "reasoning_trace": [],
+    "priority_factors": {
+      "task_priority": "Medium",
+      "task_difficulty": "high",
+      "required_skills": [
+        "Frontend",
+        "React",
+        "Performance",
+        "Architecture"
+      ],
+      "decision_source": "LLM"
+    },
+    "alternative_options": [
+      {
+        "user_id": 202,
+        "score": 0.5,
+        "reason": "Lower experience compared to James Thompson and Linda Zhang and lower skill match compared to Linda Zhang."
+      },
+      {
+        "user_id": 204,
+        "score": 0.0,
+        "reason": "Very high workload."
+      },
+      {
+        "user_id": 201,
+        "score": 0.0,
+        "reason": "No skill match."
+      },
+      {
+        "user_id": 203,
+        "score": 0.0,
+        "reason": "No skill match and very high workload."
+      },
+      {
+        "user_id": 200,
+        "score": 0.333,
+        "reason": "Low skill match compared to Emily Rodriguez, James Thompson, and Linda Zhang."
+      }
+    ],
+    "action_items": [],
+    "created_by": "AI_System",
+    "version": "1.0"
+  }
+]
